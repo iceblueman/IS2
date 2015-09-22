@@ -25,7 +25,7 @@ public class KATA {
         
         System.out.println(p1.getFullName());
         System.out.println(p1.getBirthday());
-        System.out.println(p1.getAge());
+        System.out.println("Edad="+p1.getAge());
         
         System.out.println("Fin");
     }
